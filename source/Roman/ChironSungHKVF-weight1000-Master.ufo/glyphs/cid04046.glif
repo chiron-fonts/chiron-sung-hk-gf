@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cid04046" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="39C7"/>
+  <outline>
+    <contour>
+      <point x="16" y="378" type="curve"/>
+      <point x="64" y="219" type="line"/>
+      <point x="77" y="223"/>
+      <point x="88" y="235"/>
+      <point x="92" y="249" type="curve"/>
+      <point x="225" y="335"/>
+      <point x="318" y="408"/>
+      <point x="374" y="455" type="curve"/>
+      <point x="372" y="464" type="line"/>
+      <point x="227" y="425"/>
+      <point x="73" y="389"/>
+    </contour>
+    <contour>
+      <point x="314" y="839" type="curve"/>
+      <point x="147" y="855" type="line"/>
+      <point x="147" y="85" type="line" smooth="yes"/>
+      <point x="147" y="74"/>
+      <point x="143" y="70"/>
+      <point x="129" y="70" type="curve" smooth="yes"/>
+      <point x="112" y="70"/>
+      <point x="38" y="74"/>
+      <point x="38" y="74" type="curve"/>
+      <point x="38" y="61" type="line"/>
+      <point x="78" y="52"/>
+      <point x="95" y="38"/>
+      <point x="107" y="15" type="curve" smooth="yes"/>
+      <point x="119" y="-7"/>
+      <point x="123" y="-41"/>
+      <point x="125" y="-88" type="curve"/>
+      <point x="260" y="-75"/>
+      <point x="278" y="-22"/>
+      <point x="278" y="72" type="curve" smooth="yes"/>
+      <point x="278" y="811" type="line"/>
+      <point x="303" y="815"/>
+      <point x="313" y="824"/>
+    </contour>
+    <contour>
+      <point x="308" y="703" type="curve"/>
+      <point x="255" y="615" type="line"/>
+      <point x="28" y="615" type="line"/>
+      <point x="36" y="587" type="line"/>
+      <point x="375" y="587" type="line" smooth="yes"/>
+      <point x="389" y="587"/>
+      <point x="399" y="592"/>
+      <point x="402" y="603" type="curve"/>
+      <point x="370" y="642"/>
+      <point x="308" y="703"/>
+    </contour>
+    <contour>
+      <point x="728" y="504" type="curve"/>
+      <point x="681" y="428" type="line"/>
+      <point x="539" y="428" type="line"/>
+      <point x="547" y="400" type="line"/>
+      <point x="784" y="400" type="line" smooth="yes"/>
+      <point x="798" y="400"/>
+      <point x="808" y="405"/>
+      <point x="810" y="416" type="curve"/>
+      <point x="782" y="451"/>
+      <point x="728" y="504"/>
+    </contour>
+    <contour>
+      <point x="777" y="773" type="line"/>
+      <point x="787" y="773" type="line"/>
+      <point x="787" y="69" type="line" smooth="yes"/>
+      <point x="787" y="56"/>
+      <point x="783" y="48"/>
+      <point x="766" y="48" type="curve" smooth="yes"/>
+      <point x="744" y="48"/>
+      <point x="640" y="54"/>
+      <point x="640" y="54" type="curve"/>
+      <point x="640" y="42" type="line"/>
+      <point x="693" y="32"/>
+      <point x="713" y="18"/>
+      <point x="730" y="-1" type="curve" smooth="yes"/>
+      <point x="746" y="-20"/>
+      <point x="751" y="-51"/>
+      <point x="754" y="-93" type="curve"/>
+      <point x="908" y="-81"/>
+      <point x="929" y="-33"/>
+      <point x="929" y="57" type="curve" smooth="yes"/>
+      <point x="929" y="723" type="line"/>
+      <point x="950" y="727"/>
+      <point x="962" y="736"/>
+      <point x="969" y="744" type="curve"/>
+      <point x="840" y="845" type="line"/>
+    </contour>
+    <contour>
+      <point x="868" y="773" type="line"/>
+      <point x="493" y="773" type="line"/>
+      <point x="493" y="745" type="line"/>
+      <point x="868" y="745" type="line"/>
+    </contour>
+    <contour>
+      <point x="394" y="829" type="line"/>
+      <point x="394" y="773" type="line"/>
+      <point x="394" y="-95" type="line"/>
+      <point x="420" y="-95" type="line" smooth="yes"/>
+      <point x="491" y="-95"/>
+      <point x="533" y="-62"/>
+      <point x="533" y="-52" type="curve" smooth="yes"/>
+      <point x="533" y="773" type="line"/>
+      <point x="547" y="773" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

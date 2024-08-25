@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cid58981" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="FF07"/>
+  <outline>
+    <contour>
+      <point x="482" y="461" type="line"/>
+      <point x="518" y="461" type="line"/>
+      <point x="557" y="589" type="line" smooth="yes"/>
+      <point x="567" y="623"/>
+      <point x="586" y="690"/>
+      <point x="586" y="743" type="curve" smooth="yes"/>
+      <point x="586" y="807"/>
+      <point x="553" y="839"/>
+      <point x="500" y="839" type="curve" smooth="yes"/>
+      <point x="446" y="839"/>
+      <point x="414" y="807"/>
+      <point x="414" y="743" type="curve" smooth="yes"/>
+      <point x="414" y="692"/>
+      <point x="433" y="624"/>
+      <point x="443" y="589" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

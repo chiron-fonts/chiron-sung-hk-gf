@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cid59390" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="1F242"/>
+  <outline>
+    <contour>
+      <point x="674" y="671" type="curve"/>
+      <point x="624" y="610" type="line"/>
+      <point x="234" y="610" type="line"/>
+      <point x="242" y="580" type="line"/>
+      <point x="739" y="580" type="line" smooth="yes"/>
+      <point x="753" y="580"/>
+      <point x="763" y="585"/>
+      <point x="766" y="596" type="curve"/>
+      <point x="730" y="628"/>
+      <point x="674" y="671"/>
+    </contour>
+    <contour>
+      <point x="744" y="225" type="curve"/>
+      <point x="693" y="161" type="line"/>
+      <point x="167" y="161" type="line"/>
+      <point x="175" y="131" type="line"/>
+      <point x="812" y="131" type="line" smooth="yes"/>
+      <point x="826" y="131"/>
+      <point x="836" y="136"/>
+      <point x="839" y="147" type="curve"/>
+      <point x="803" y="180"/>
+      <point x="744" y="225"/>
+    </contour>
+    <contour>
+      <point x="951" y="41" type="line"/>
+      <point x="951" y="715" type="line"/>
+      <point x="831" y="827" type="line"/>
+      <point x="813" y="809" type="line"/>
+      <point x="921" y="700" type="line"/>
+      <point x="921" y="56" type="line"/>
+      <point x="813" y="-53" type="line"/>
+      <point x="831" y="-71" type="line"/>
+    </contour>
+    <contour>
+      <point x="51" y="715" type="line"/>
+      <point x="51" y="41" type="line"/>
+      <point x="171" y="-71" type="line"/>
+      <point x="189" y="-53" type="line"/>
+      <point x="81" y="56" type="line"/>
+      <point x="81" y="700" type="line"/>
+      <point x="189" y="809" type="line"/>
+      <point x="171" y="827" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

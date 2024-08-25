@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cid00806" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="21B9"/>
+  <outline>
+    <contour>
+      <point x="960" y="621" type="line"/>
+      <point x="173" y="621" type="line"/>
+      <point x="236" y="668"/>
+      <point x="313" y="741"/>
+      <point x="366" y="814" type="curve"/>
+      <point x="333" y="840" type="line"/>
+      <point x="265" y="747"/>
+      <point x="163" y="658"/>
+      <point x="72" y="600" type="curve"/>
+      <point x="163" y="542"/>
+      <point x="265" y="453"/>
+      <point x="333" y="360" type="curve"/>
+      <point x="366" y="386" type="line"/>
+      <point x="313" y="459"/>
+      <point x="236" y="532"/>
+      <point x="173" y="579" type="curve"/>
+      <point x="960" y="579" type="line"/>
+    </contour>
+    <contour>
+      <point x="827" y="181" type="curve"/>
+      <point x="40" y="181" type="line"/>
+      <point x="40" y="139" type="line"/>
+      <point x="827" y="139" type="line"/>
+      <point x="764" y="92"/>
+      <point x="687" y="19"/>
+      <point x="634" y="-54" type="curve"/>
+      <point x="667" y="-80" type="line"/>
+      <point x="735" y="13"/>
+      <point x="837" y="102"/>
+      <point x="928" y="160" type="curve"/>
+      <point x="837" y="218"/>
+      <point x="735" y="307"/>
+      <point x="667" y="400" type="curve"/>
+      <point x="634" y="374" type="line"/>
+      <point x="687" y="301"/>
+      <point x="764" y="228"/>
+    </contour>
+    <contour>
+      <point x="83" y="832" type="line"/>
+      <point x="41" y="832" type="line"/>
+      <point x="40" y="368" type="line"/>
+      <point x="82" y="368" type="line"/>
+    </contour>
+    <contour>
+      <point x="960" y="392" type="line"/>
+      <point x="918" y="392" type="line"/>
+      <point x="917" y="-72" type="line"/>
+      <point x="959" y="-72" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
