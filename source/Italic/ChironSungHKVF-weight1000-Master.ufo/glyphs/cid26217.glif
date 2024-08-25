@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cid26217" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="738A"/>
+  <outline>
+    <contour>
+      <point x="142" y="385" type="line"/>
+      <point x="144" y="357" type="line"/>
+      <point x="860" y="357" type="line" smooth="yes"/>
+      <point x="875" y="357"/>
+      <point x="887" y="362"/>
+      <point x="892" y="373" type="curve"/>
+      <point x="848" y="418"/>
+      <point x="773" y="483"/>
+      <point x="773" y="483" type="curve"/>
+      <point x="677" y="385" type="line"/>
+    </contour>
+    <contour>
+      <point x="499" y="749" type="line"/>
+      <point x="353" y="-19" type="line"/>
+      <point x="513" y="-19" type="line"/>
+      <point x="659" y="749" type="line"/>
+    </contour>
+    <contour>
+      <point x="695" y="681" type="curve"/>
+      <point x="687" y="676" type="line"/>
+      <point x="715" y="635"/>
+      <point x="743" y="571"/>
+      <point x="747" y="512" type="curve"/>
+      <point x="858" y="435"/>
+      <point x="1002" y="671"/>
+    </contour>
+    <contour>
+      <point x="-37" y="-11" type="line"/>
+      <point x="-34" y="-39" type="line"/>
+      <point x="877" y="-39" type="line" smooth="yes"/>
+      <point x="893" y="-39"/>
+      <point x="905" y="-34"/>
+      <point x="910" y="-23" type="curve"/>
+      <point x="863" y="24"/>
+      <point x="783" y="94"/>
+      <point x="783" y="94" type="curve"/>
+      <point x="680" y="-11" type="line"/>
+    </contour>
+    <contour>
+      <point x="166" y="749" type="line"/>
+      <point x="168" y="721" type="line"/>
+      <point x="977" y="721" type="line" smooth="yes"/>
+      <point x="992" y="721"/>
+      <point x="1005" y="726"/>
+      <point x="1010" y="737" type="curve"/>
+      <point x="964" y="783"/>
+      <point x="885" y="852"/>
+      <point x="885" y="852" type="curve"/>
+      <point x="785" y="749" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
