@@ -3,21 +3,47 @@
   <advance height="1000" width="412"/>
   <outline>
     <contour>
-      <point x="68" y="10" type="line"/>
-      <point x="360" y="10" type="line"/>
-      <point x="360" y="40" type="line"/>
-      <point x="265" y="59" type="line"/>
-      <point x="167" y="59" type="line"/>
-      <point x="68" y="40" type="line"/>
+      <point x="68" y="10" type="curve"/>
+      <point x="68" y="10"/>
+      <point x="360" y="10"/>
+      <point x="360" y="10" type="curve"/>
+      <point x="360" y="10"/>
+      <point x="360" y="40"/>
+      <point x="360" y="40" type="curve"/>
+      <point x="360" y="40"/>
+      <point x="265" y="59"/>
+      <point x="265" y="59" type="curve"/>
+      <point x="265" y="59"/>
+      <point x="167" y="59"/>
+      <point x="167" y="59" type="curve"/>
+      <point x="167" y="59"/>
+      <point x="68" y="40"/>
+      <point x="68" y="40" type="curve"/>
+      <point x="68" y="40"/>
+      <point x="68" y="10"/>
     </contour>
     <contour>
-      <point x="157" y="10" type="line"/>
-      <point x="274" y="10" type="line"/>
-      <point x="274" y="454" type="line"/>
-      <point x="264" y="461" type="line"/>
-      <point x="78" y="415" type="line"/>
-      <point x="78" y="378" type="line"/>
-      <point x="157" y="387" type="line"/>
+      <point x="157" y="10" type="curve"/>
+      <point x="157" y="10"/>
+      <point x="274" y="10"/>
+      <point x="274" y="10" type="curve"/>
+      <point x="274" y="10"/>
+      <point x="274" y="454"/>
+      <point x="274" y="454" type="curve"/>
+      <point x="274" y="454"/>
+      <point x="264" y="461"/>
+      <point x="264" y="461" type="curve"/>
+      <point x="264" y="461"/>
+      <point x="78" y="415"/>
+      <point x="78" y="415" type="curve"/>
+      <point x="78" y="415"/>
+      <point x="78" y="378"/>
+      <point x="78" y="378" type="curve"/>
+      <point x="78" y="378"/>
+      <point x="157" y="387"/>
+      <point x="157" y="387" type="curve"/>
+      <point x="157" y="387"/>
+      <point x="157" y="10"/>
     </contour>
   </outline>
   <lib>

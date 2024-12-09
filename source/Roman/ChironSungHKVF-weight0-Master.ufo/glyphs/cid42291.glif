@@ -1,12 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cid42291" format="2">
-  <advance height="1000" width="1583"/>
+  <advance height="1000"/>
   <outline>
     <contour>
-      <point x="41" y="239" type="line"/>
-      <point x="1542" y="239" type="line"/>
-      <point x="1542" y="281" type="line"/>
-      <point x="41" y="281" type="line"/>
+      <point x="0" y="765" type="curve" smooth="yes"/>
+      <point x="86" y="765"/>
+      <point x="152" y="802"/>
+      <point x="158" y="864" type="curve"/>
+      <point x="152" y="889"/>
+      <point x="136" y="901"/>
+      <point x="113" y="901" type="curve" smooth="yes"/>
+      <point x="96" y="901"/>
+      <point x="78" y="889"/>
+      <point x="78" y="866" type="curve" smooth="yes"/>
+      <point x="78" y="843"/>
+      <point x="94" y="823"/>
+      <point x="122" y="811" type="curve"/>
+      <point x="122" y="811"/>
+      <point x="129" y="841"/>
+      <point x="129" y="841" type="curve"/>
+      <point x="99" y="808"/>
+      <point x="54" y="793"/>
+      <point x="0" y="793" type="curve" smooth="yes"/>
+      <point x="-54" y="793"/>
+      <point x="-99" y="808"/>
+      <point x="-129" y="841" type="curve"/>
+      <point x="-129" y="841"/>
+      <point x="-122" y="811"/>
+      <point x="-122" y="811" type="curve"/>
+      <point x="-94" y="823"/>
+      <point x="-78" y="843"/>
+      <point x="-78" y="866" type="curve" smooth="yes"/>
+      <point x="-78" y="889"/>
+      <point x="-96" y="901"/>
+      <point x="-113" y="901" type="curve" smooth="yes"/>
+      <point x="-136" y="901"/>
+      <point x="-152" y="889"/>
+      <point x="-158" y="864" type="curve"/>
+      <point x="-152" y="802"/>
+      <point x="-86" y="765"/>
     </contour>
   </outline>
   <lib>

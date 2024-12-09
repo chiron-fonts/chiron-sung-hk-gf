@@ -1,12 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cid43452" format="2">
-  <advance height="1000"/>
+  <advance height="1000" width="327"/>
+  <unicode hex="02D0"/>
   <outline>
     <contour>
-      <point x="-55" y="786" type="line"/>
-      <point x="55" y="786" type="line"/>
-      <point x="63" y="1011" type="line"/>
-      <point x="-63" y="1011" type="line"/>
+      <point x="55" y="555" type="curve"/>
+      <point x="55" y="555"/>
+      <point x="156" y="380"/>
+      <point x="156" y="380" type="curve"/>
+      <point x="156" y="380"/>
+      <point x="170" y="380"/>
+      <point x="170" y="380" type="curve"/>
+      <point x="170" y="380"/>
+      <point x="272" y="555"/>
+      <point x="272" y="555" type="curve"/>
+      <point x="272" y="555"/>
+      <point x="264" y="569"/>
+      <point x="264" y="569" type="curve"/>
+      <point x="264" y="569"/>
+      <point x="63" y="569"/>
+      <point x="63" y="569" type="curve"/>
+      <point x="63" y="569"/>
+      <point x="55" y="555"/>
+    </contour>
+    <contour>
+      <point x="55" y="23" type="curve"/>
+      <point x="55" y="23"/>
+      <point x="63" y="10"/>
+      <point x="63" y="10" type="curve"/>
+      <point x="63" y="10"/>
+      <point x="264" y="10"/>
+      <point x="264" y="10" type="curve"/>
+      <point x="264" y="10"/>
+      <point x="272" y="23"/>
+      <point x="272" y="23" type="curve"/>
+      <point x="272" y="23"/>
+      <point x="170" y="198"/>
+      <point x="170" y="198" type="curve"/>
+      <point x="170" y="198"/>
+      <point x="156" y="198"/>
+      <point x="156" y="198" type="curve"/>
+      <point x="156" y="198"/>
+      <point x="55" y="23"/>
     </contour>
   </outline>
   <lib>

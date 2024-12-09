@@ -32,18 +32,36 @@
       <point x="495" y="45"/>
     </contour>
     <contour>
-      <point x="212" y="779" type="line"/>
-      <point x="427" y="877" type="line"/>
-      <point x="342" y="877" type="line"/>
-      <point x="557" y="779" type="line"/>
-      <point x="584" y="814" type="line"/>
-      <point x="421" y="953" type="line"/>
-      <point x="347" y="953" type="line"/>
-      <point x="185" y="814" type="line"/>
+      <point x="212" y="779" type="curve"/>
+      <point x="212" y="779"/>
+      <point x="427" y="877"/>
+      <point x="427" y="877" type="curve"/>
+      <point x="427" y="877"/>
+      <point x="342" y="877"/>
+      <point x="342" y="877" type="curve"/>
+      <point x="342" y="877"/>
+      <point x="557" y="779"/>
+      <point x="557" y="779" type="curve"/>
+      <point x="557" y="779"/>
+      <point x="584" y="814"/>
+      <point x="584" y="814" type="curve"/>
+      <point x="584" y="814"/>
+      <point x="421" y="953"/>
+      <point x="421" y="953" type="curve"/>
+      <point x="421" y="953"/>
+      <point x="347" y="953"/>
+      <point x="347" y="953" type="curve"/>
+      <point x="347" y="953"/>
+      <point x="185" y="814"/>
+      <point x="185" y="814" type="curve"/>
+      <point x="185" y="814"/>
+      <point x="212" y="779"/>
     </contour>
     <contour>
       <point x="190" y="988" type="curve"/>
-      <point x="230" y="973" type="line"/>
+      <point x="190" y="988"/>
+      <point x="230" y="973"/>
+      <point x="230" y="973" type="curve"/>
       <point x="243" y="1000"/>
       <point x="267" y="1018"/>
       <point x="299" y="1018" type="curve" smooth="yes"/>
@@ -56,7 +74,9 @@
       <point x="520" y="979"/>
       <point x="566" y="1022"/>
       <point x="578" y="1100" type="curve"/>
-      <point x="539" y="1114" type="line"/>
+      <point x="578" y="1100"/>
+      <point x="539" y="1114"/>
+      <point x="539" y="1114" type="curve"/>
       <point x="525" y="1086"/>
       <point x="502" y="1070"/>
       <point x="469" y="1070" type="curve" smooth="yes"/>

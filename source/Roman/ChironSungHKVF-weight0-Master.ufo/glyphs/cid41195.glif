@@ -4,21 +4,47 @@
   <unicode hex="02E1"/>
   <outline>
     <contour>
-      <point x="22" y="455" type="line"/>
-      <point x="185" y="455" type="line"/>
-      <point x="185" y="477" type="line"/>
-      <point x="110" y="486" type="line"/>
-      <point x="96" y="486" type="line"/>
-      <point x="22" y="477" type="line"/>
+      <point x="22" y="455" type="curve"/>
+      <point x="22" y="455"/>
+      <point x="185" y="455"/>
+      <point x="185" y="455" type="curve"/>
+      <point x="185" y="455"/>
+      <point x="185" y="477"/>
+      <point x="185" y="477" type="curve"/>
+      <point x="185" y="477"/>
+      <point x="110" y="486"/>
+      <point x="110" y="486" type="curve"/>
+      <point x="110" y="486"/>
+      <point x="96" y="486"/>
+      <point x="96" y="486" type="curve"/>
+      <point x="96" y="486"/>
+      <point x="22" y="477"/>
+      <point x="22" y="477" type="curve"/>
+      <point x="22" y="477"/>
+      <point x="22" y="455"/>
     </contour>
     <contour>
-      <point x="80" y="455" type="line"/>
-      <point x="127" y="455" type="line"/>
-      <point x="127" y="945" type="line"/>
-      <point x="119" y="951" type="line"/>
-      <point x="23" y="929" type="line"/>
-      <point x="23" y="910" type="line"/>
-      <point x="80" y="904" type="line"/>
+      <point x="80" y="455" type="curve"/>
+      <point x="80" y="455"/>
+      <point x="127" y="455"/>
+      <point x="127" y="455" type="curve"/>
+      <point x="127" y="455"/>
+      <point x="127" y="945"/>
+      <point x="127" y="945" type="curve"/>
+      <point x="127" y="945"/>
+      <point x="119" y="951"/>
+      <point x="119" y="951" type="curve"/>
+      <point x="119" y="951"/>
+      <point x="23" y="929"/>
+      <point x="23" y="929" type="curve"/>
+      <point x="23" y="929"/>
+      <point x="23" y="910"/>
+      <point x="23" y="910" type="curve"/>
+      <point x="23" y="910"/>
+      <point x="80" y="904"/>
+      <point x="80" y="904" type="curve"/>
+      <point x="80" y="904"/>
+      <point x="80" y="455"/>
     </contour>
   </outline>
   <lib>

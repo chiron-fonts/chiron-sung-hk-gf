@@ -1,12 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cid43234" format="2">
-  <advance height="1000" width="892"/>
+  <advance height="1000" width="587"/>
   <outline>
     <contour>
-      <point x="60" y="278" type="line"/>
-      <point x="830" y="278" type="line"/>
-      <point x="830" y="354" type="line"/>
-      <point x="60" y="354" type="line"/>
+      <point x="60" y="278" type="curve"/>
+      <point x="60" y="278"/>
+      <point x="526" y="278"/>
+      <point x="526" y="278" type="curve"/>
+      <point x="526" y="278"/>
+      <point x="526" y="354"/>
+      <point x="526" y="354" type="curve"/>
+      <point x="526" y="354"/>
+      <point x="60" y="354"/>
+      <point x="60" y="354" type="curve"/>
+      <point x="60" y="354"/>
+      <point x="60" y="278"/>
     </contour>
   </outline>
   <lib>

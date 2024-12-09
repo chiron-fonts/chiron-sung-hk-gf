@@ -3,16 +3,36 @@
   <advance height="1000" width="493"/>
   <outline>
     <contour>
-      <point x="139" y="-118" type="line"/>
-      <point x="196" y="-118" type="line"/>
-      <point x="447" y="525" type="line"/>
-      <point x="447" y="559" type="line"/>
-      <point x="41" y="559" type="line"/>
-      <point x="41" y="504" type="line"/>
-      <point x="409" y="504" type="line"/>
-      <point x="413" y="493" type="line"/>
-      <point x="413" y="527" type="line"/>
-      <point x="132" y="-111" type="line"/>
+      <point x="139" y="-118" type="curve"/>
+      <point x="139" y="-118"/>
+      <point x="196" y="-118"/>
+      <point x="196" y="-118" type="curve"/>
+      <point x="196" y="-118"/>
+      <point x="447" y="525"/>
+      <point x="447" y="525" type="curve"/>
+      <point x="447" y="525"/>
+      <point x="447" y="559"/>
+      <point x="447" y="559" type="curve"/>
+      <point x="447" y="559"/>
+      <point x="41" y="559"/>
+      <point x="41" y="559" type="curve"/>
+      <point x="41" y="559"/>
+      <point x="41" y="504"/>
+      <point x="41" y="504" type="curve"/>
+      <point x="41" y="504"/>
+      <point x="409" y="504"/>
+      <point x="409" y="504" type="curve"/>
+      <point x="409" y="504"/>
+      <point x="413" y="493"/>
+      <point x="413" y="493" type="curve"/>
+      <point x="413" y="493"/>
+      <point x="413" y="527"/>
+      <point x="413" y="527" type="curve"/>
+      <point x="413" y="527"/>
+      <point x="132" y="-111"/>
+      <point x="132" y="-111" type="curve"/>
+      <point x="132" y="-111"/>
+      <point x="139" y="-118"/>
     </contour>
   </outline>
   <lib>

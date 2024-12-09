@@ -3,24 +3,56 @@
   <advance height="1000" width="604"/>
   <outline>
     <contour>
-      <point x="291" y="94" type="line"/>
-      <point x="323" y="125" type="line"/>
-      <point x="121" y="378" type="line"/>
-      <point x="121" y="300" type="line"/>
-      <point x="323" y="553" type="line"/>
-      <point x="291" y="586" type="line"/>
-      <point x="28" y="371" type="line"/>
-      <point x="28" y="308" type="line"/>
+      <point x="291" y="94" type="curve"/>
+      <point x="291" y="94"/>
+      <point x="323" y="125"/>
+      <point x="323" y="125" type="curve"/>
+      <point x="323" y="125"/>
+      <point x="121" y="378"/>
+      <point x="121" y="378" type="curve"/>
+      <point x="121" y="378"/>
+      <point x="121" y="300"/>
+      <point x="121" y="300" type="curve"/>
+      <point x="121" y="300"/>
+      <point x="323" y="553"/>
+      <point x="323" y="553" type="curve"/>
+      <point x="323" y="553"/>
+      <point x="291" y="586"/>
+      <point x="291" y="586" type="curve"/>
+      <point x="291" y="586"/>
+      <point x="28" y="371"/>
+      <point x="28" y="371" type="curve"/>
+      <point x="28" y="371"/>
+      <point x="28" y="308"/>
+      <point x="28" y="308" type="curve"/>
+      <point x="28" y="308"/>
+      <point x="291" y="94"/>
     </contour>
     <contour>
-      <point x="530" y="94" type="line"/>
-      <point x="561" y="125" type="line"/>
-      <point x="360" y="378" type="line"/>
-      <point x="360" y="300" type="line"/>
-      <point x="561" y="553" type="line"/>
-      <point x="530" y="586" type="line"/>
-      <point x="267" y="371" type="line"/>
-      <point x="267" y="308" type="line"/>
+      <point x="530" y="94" type="curve"/>
+      <point x="530" y="94"/>
+      <point x="561" y="125"/>
+      <point x="561" y="125" type="curve"/>
+      <point x="561" y="125"/>
+      <point x="360" y="378"/>
+      <point x="360" y="378" type="curve"/>
+      <point x="360" y="378"/>
+      <point x="360" y="300"/>
+      <point x="360" y="300" type="curve"/>
+      <point x="360" y="300"/>
+      <point x="561" y="553"/>
+      <point x="561" y="553" type="curve"/>
+      <point x="561" y="553"/>
+      <point x="530" y="586"/>
+      <point x="530" y="586" type="curve"/>
+      <point x="530" y="586"/>
+      <point x="267" y="371"/>
+      <point x="267" y="371" type="curve"/>
+      <point x="267" y="371"/>
+      <point x="267" y="308"/>
+      <point x="267" y="308" type="curve"/>
+      <point x="267" y="308"/>
+      <point x="530" y="94"/>
     </contour>
   </outline>
   <lib>

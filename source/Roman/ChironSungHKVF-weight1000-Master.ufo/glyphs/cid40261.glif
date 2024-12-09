@@ -32,10 +32,18 @@
       <point x="495" y="45"/>
     </contour>
     <contour>
-      <point x="223" y="825" type="line"/>
-      <point x="545" y="825" type="line"/>
-      <point x="545" y="918" type="line"/>
-      <point x="223" y="918" type="line"/>
+      <point x="223" y="825" type="curve"/>
+      <point x="223" y="825"/>
+      <point x="545" y="825"/>
+      <point x="545" y="825" type="curve"/>
+      <point x="545" y="825"/>
+      <point x="545" y="918"/>
+      <point x="545" y="918" type="curve"/>
+      <point x="545" y="918"/>
+      <point x="223" y="918"/>
+      <point x="223" y="918" type="curve"/>
+      <point x="223" y="918"/>
+      <point x="223" y="825"/>
     </contour>
   </outline>
   <lib>
