@@ -4,16 +4,32 @@
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="120" y="-271" type="line"/>
-      <point x="217" y="-271" type="line"/>
-      <point x="217" y="234" type="line"/>
-      <point x="120" y="234" type="line"/>
+      <point x="120" y="-271" type="curve"/>
+      <point x="120" y="-271"/>
+      <point x="217" y="-271"/>
+      <point x="217" y="-271" type="curve"/>
+      <point x="217" y="-271"/>
+      <point x="217" y="234"/>
+      <point x="217" y="234" type="curve"/>
+      <point x="217" y="234"/>
+      <point x="120" y="234"/>
+      <point x="120" y="234" type="curve"/>
+      <point x="120" y="234"/>
+      <point x="120" y="-271"/>
     </contour>
     <contour>
-      <point x="217" y="368" type="line"/>
-      <point x="217" y="849" type="line"/>
-      <point x="120" y="849" type="line"/>
-      <point x="120" y="368" type="line"/>
+      <point x="217" y="368" type="curve"/>
+      <point x="217" y="368"/>
+      <point x="217" y="849"/>
+      <point x="217" y="849" type="curve"/>
+      <point x="217" y="849"/>
+      <point x="120" y="849"/>
+      <point x="120" y="849" type="curve"/>
+      <point x="120" y="849"/>
+      <point x="120" y="368"/>
+      <point x="120" y="368" type="curve"/>
+      <point x="120" y="368"/>
+      <point x="217" y="368"/>
     </contour>
   </outline>
   <lib>

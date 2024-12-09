@@ -1,23 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cid41592" format="2">
   <advance height="1000"/>
-  <unicode hex="0309"/>
+  <unicode hex="0323"/>
   <outline>
     <contour>
-      <point x="55" y="584" type="line"/>
-      <point x="119" y="591"/>
-      <point x="158" y="630"/>
-      <point x="158" y="684" type="curve" smooth="yes"/>
-      <point x="158" y="733"/>
-      <point x="123" y="763"/>
-      <point x="52" y="771" type="curve"/>
-      <point x="41" y="729" type="line"/>
-      <point x="98" y="719"/>
-      <point x="123" y="704"/>
-      <point x="123" y="670" type="curve" smooth="yes"/>
-      <point x="123" y="639"/>
-      <point x="99" y="614"/>
-      <point x="51" y="605" type="curve"/>
+      <point x="-86" y="-172" type="curve" smooth="yes"/>
+      <point x="-63" y="-172"/>
+      <point x="-41" y="-150"/>
+      <point x="-41" y="-121" type="curve" smooth="yes"/>
+      <point x="-41" y="-96"/>
+      <point x="-57" y="-80"/>
+      <point x="-80" y="-80" type="curve" smooth="yes"/>
+      <point x="-103" y="-80"/>
+      <point x="-127" y="-102"/>
+      <point x="-127" y="-130" type="curve" smooth="yes"/>
+      <point x="-127" y="-156"/>
+      <point x="-108" y="-172"/>
     </contour>
   </outline>
   <lib>

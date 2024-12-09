@@ -3,10 +3,18 @@
   <advance height="1000" width="256"/>
   <outline>
     <contour>
-      <point x="111" y="641" type="line"/>
-      <point x="305" y="641" type="line"/>
-      <point x="305" y="701" type="line"/>
-      <point x="111" y="701" type="line"/>
+      <point x="111" y="641" type="curve"/>
+      <point x="111" y="641"/>
+      <point x="305" y="641"/>
+      <point x="305" y="641" type="curve"/>
+      <point x="305" y="641"/>
+      <point x="305" y="701"/>
+      <point x="305" y="701" type="curve"/>
+      <point x="305" y="701"/>
+      <point x="111" y="701"/>
+      <point x="111" y="701" type="curve"/>
+      <point x="111" y="701"/>
+      <point x="111" y="641"/>
     </contour>
   </outline>
   <lib>

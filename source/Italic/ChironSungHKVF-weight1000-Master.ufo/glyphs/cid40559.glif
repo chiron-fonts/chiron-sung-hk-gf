@@ -32,30 +32,50 @@
       <point x="337" y="45"/>
     </contour>
     <contour>
-      <point x="213" y="610" type="line"/>
-      <point x="421" y="748" type="line"/>
-      <point x="339" y="748" type="line"/>
-      <point x="513" y="611" type="line"/>
-      <point x="544" y="637" type="line"/>
-      <point x="424" y="818" type="line"/>
-      <point x="355" y="818" type="line"/>
-      <point x="187" y="643" type="line"/>
+      <point x="213" y="610" type="curve"/>
+      <point x="213" y="610"/>
+      <point x="421" y="748"/>
+      <point x="421" y="748" type="curve"/>
+      <point x="421" y="748"/>
+      <point x="339" y="748"/>
+      <point x="339" y="748" type="curve"/>
+      <point x="339" y="748"/>
+      <point x="513" y="611"/>
+      <point x="513" y="611" type="curve"/>
+      <point x="513" y="611"/>
+      <point x="544" y="637"/>
+      <point x="544" y="637" type="curve"/>
+      <point x="544" y="637"/>
+      <point x="424" y="818"/>
+      <point x="424" y="818" type="curve"/>
+      <point x="424" y="818"/>
+      <point x="355" y="818"/>
+      <point x="355" y="818" type="curve"/>
+      <point x="355" y="818"/>
+      <point x="187" y="643"/>
+      <point x="187" y="643" type="curve"/>
+      <point x="187" y="643"/>
+      <point x="213" y="610"/>
     </contour>
     <contour>
-      <point x="522" y="721" type="line"/>
+      <point x="522" y="721" type="curve"/>
       <point x="601" y="734"/>
       <point x="657" y="777"/>
       <point x="657" y="849" type="curve" smooth="yes"/>
       <point x="657" y="916"/>
       <point x="619" y="960"/>
       <point x="524" y="969" type="curve"/>
-      <point x="501" y="863" type="line"/>
+      <point x="524" y="969"/>
+      <point x="501" y="863"/>
+      <point x="501" y="863" type="curve"/>
       <point x="560" y="856"/>
       <point x="580" y="846"/>
       <point x="580" y="820" type="curve" smooth="yes"/>
       <point x="580" y="797"/>
       <point x="562" y="781"/>
       <point x="513" y="766" type="curve"/>
+      <point x="513" y="766"/>
+      <point x="522" y="721"/>
     </contour>
   </outline>
   <lib>

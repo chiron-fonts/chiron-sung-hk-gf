@@ -5,14 +5,18 @@
   <outline>
     <contour>
       <point x="216" y="-206" type="curve"/>
-      <point x="238" y="-192" type="line"/>
+      <point x="216" y="-206"/>
+      <point x="238" y="-192"/>
+      <point x="238" y="-192" type="curve"/>
       <point x="161" y="-66"/>
       <point x="132" y="45"/>
       <point x="132" y="182" type="curve" smooth="yes"/>
       <point x="132" y="400"/>
       <point x="217" y="579"/>
       <point x="423" y="760" type="curve"/>
-      <point x="407" y="780" type="line"/>
+      <point x="423" y="760"/>
+      <point x="407" y="780"/>
+      <point x="407" y="780" type="curve"/>
       <point x="177" y="603"/>
       <point x="79" y="397"/>
       <point x="79" y="183" type="curve" smooth="yes"/>
